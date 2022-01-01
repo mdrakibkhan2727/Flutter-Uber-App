@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492628964501",
+    "project_id": "flutter-user-clone",
+    "storage_bucket": "flutter-user-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492628964501:android:bca5dc9cbf03a2fb0bd79c",
+        "android_client_info": {
+          "package_name": "com.muhammadali.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492628964501-cp3e8ijrnfa4e7ta5fjk1te1up7tae9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdLMhtR2PfnmVHz1aj3_CtfhCqFc6_Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492628964501-cp3e8ijrnfa4e7ta5fjk1te1up7tae9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
